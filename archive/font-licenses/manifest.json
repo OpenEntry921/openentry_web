@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt",
+    "path": "archive/font-licenses/dmsans-OFL.txt",
+    "success": true,
+    "usage": "font redistribution license",
+    "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexmono/OFL.txt",
+    "path": "archive/font-licenses/ibmplexmono-OFL.txt",
+    "success": true,
+    "usage": "font redistribution license",
+    "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/OFL.txt",
+    "path": "archive/font-licenses/notosanskr-OFL.txt",
+    "success": true,
+    "usage": "font redistribution license",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  }
+]

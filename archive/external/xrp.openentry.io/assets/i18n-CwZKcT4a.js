@@ -1,0 +1,1 @@
+var e=[`en`,`ko`,`ar`],t={en:`en-US`,ko:`ko-KR`,ar:`ar-AE`},n={en:`English`,ko:`Korean`,ar:`Arabic`},r=t=>{let n=String(t||``).trim().toLowerCase().split(`-`)[0];return e.includes(n)?n:`en`},i=e=>t[r(e)];export{i as n,r,n as t};

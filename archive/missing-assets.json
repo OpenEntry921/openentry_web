@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500;600;700&display=swap",
+    "success": true,
+    "http_status": 200,
+    "used_by": [
+      "main site CSS; all 11 pages"
+    ],
+    "reason": "Initially blocked; access subsequently became available. Main CSS and all 136 referenced fonts retained in archive/fonts.",
+    "resolved": true,
+    "manifest": "font-manifest.json"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",
+    "success": false,
+    "attempted": false,
+    "used_by": [
+      "external wallet HTML"
+    ],
+    "reason": "Same blocked hostname; not separately requested."
+  }
+]

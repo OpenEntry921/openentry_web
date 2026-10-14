@@ -1,0 +1,222 @@
+[
+  {
+    "url": "https://xrp.openentry.io/",
+    "path": "index.html",
+    "success": true,
+    "bytes": 1448,
+    "sha256": "d2dc5ca8580dc15d734a06df7e0c056a81170f733872e5508454fdf94d3938e1",
+    "usage": "external wallet landing page; archive only",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/WalletContext-B-5gky87.js",
+    "path": "assets/WalletContext-B-5gky87.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 163887,
+    "sha256": "89349583d995b6cfed3c17887f2549f8b51411d7f300e2de4d09d293bf351a4c",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/icons-CXzzeJVW.js",
+    "path": "assets/icons-CXzzeJVW.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 28299,
+    "sha256": "0ee91334927a0a25f5576efbe3728f73bdb4d0ff582b9068f95358c000e40308",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/index-ClM4acdo.css",
+    "path": "assets/index-ClM4acdo.css",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 139607,
+    "sha256": "b19220e49f0f222abe099cdd6e8de4f828f4fb4332c805b855e57045121ae796",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/index-Dwxt2t5X.js",
+    "path": "assets/index-Dwxt2t5X.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 316192,
+    "sha256": "070a24fcc8d0382bcadce7d9898cb5afc4c62ebc7b44cbbf7fe3f168edd75cd1",
+    "retained": false,
+    "omission_reason": "Potential hard-coded wallet seed in public bundle; withheld rather than uploading credential material."
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/query-_Be6-1w4.js",
+    "path": "assets/query-_Be6-1w4.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 35252,
+    "sha256": "6f7c0d583f1ec58eb3d284a5c54f64afc771ad407486598089e3536d98c36ace",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/rolldown-runtime-C0FnF6B9.js",
+    "path": "assets/rolldown-runtime-C0FnF6B9.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 1291,
+    "sha256": "e0a79ad36c6ca1ffbc796c80aa5661803a9d1bc684e29d1587f48b4ba9a82714",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/vendor-C4o_fyl0.js",
+    "path": "assets/vendor-C4o_fyl0.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 210617,
+    "sha256": "36c66a70d8af93db9a0174d4fe79064a2069d51384a3f229b52090542b204a61",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/xrpl-BTC5h6_9.js",
+    "path": "assets/xrpl-BTC5h6_9.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 591304,
+    "sha256": "fef3a50a822ac2e18e32ba975804d5b073113d79af2b0bfeb09f20ed5b0c6637",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/opene.svg",
+    "path": "opene.svg",
+    "success": true,
+    "http_status": "200",
+    "usage": "referenced by external wallet HTML; archive only",
+    "bytes": 21778,
+    "sha256": "7cf113b6735561cab3c885a7642a740433c3190d1fa845804b6ea5ff5e63c0d1",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/mpt_crypto.web-BbHa5CJR.js",
+    "path": "assets/mpt_crypto.web-BbHa5CJR.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/xrpl-BTC5h6_9.js; archive only",
+    "bytes": 39059,
+    "sha256": "04a37f4f75b83daf386445baf1dc4c8391565a23ebba879c46a62691c6b6010a",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/glusd.svg",
+    "path": "glusd.svg",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/WalletContext-B-5gky87.js; archive only",
+    "bytes": 761294,
+    "sha256": "c0d12b00dd754b7176bf2f3795dec58e9a2e1e653916fc792841d1f8799015a9",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/AISettings-C2GYeI4J.js",
+    "path": "assets/AISettings-C2GYeI4J.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 21690,
+    "sha256": "ef8490b08549d22259f6c27931d152420407921fd02442639a06579116ecb7d4",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/jszip.min-Dnk1pjrG.js",
+    "path": "assets/jszip.min-Dnk1pjrG.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 95984,
+    "sha256": "f328e740a7f9929c36f5a90c3de90fecf03a23bc17846adfb0d76cebfde665a9",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/opene.png",
+    "path": "opene.png",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 1348568,
+    "sha256": "b804f344788ba0f20e67cb9168181f48c620387275f84025de9ee24f9c60e7e0",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/StorageMonitor-CY55wPjG.js",
+    "path": "assets/StorageMonitor-CY55wPjG.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 30447,
+    "sha256": "bde3914f59e3094a95bb9dea7990226211775f5a588ed4cea88038cd2c0b3773",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/aiSearchService-_n3yCAfD.js",
+    "path": "assets/aiSearchService-_n3yCAfD.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 5849,
+    "sha256": "de6b397049e5f92da59d8eae28d96ad1492ba04ab11180a96851118b96405f0c",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/AIHome-CSoS3EZL.js",
+    "path": "assets/AIHome-CSoS3EZL.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 99409,
+    "sha256": "53a9da31e0c351b6637fb7312dd94b9a4645fc2361ab494315d23cedddba6f91",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/i18n-CwZKcT4a.js",
+    "path": "assets/i18n-CwZKcT4a.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 228,
+    "sha256": "6d211e7e4a298b7cbc0b1a8f955f3d2d7c92548e08633d0d438f6ea7e22710b3",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/XRPLTools-DQvM700O.js",
+    "path": "assets/XRPLTools-DQvM700O.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 20257,
+    "sha256": "00b8f5581acb2cad9afbc1d962256b8781e82b87335dd183cb5d3d6834292cfb",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/aiConversationService-CgZZfvnL.js",
+    "path": "assets/aiConversationService-CgZZfvnL.js",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/index-Dwxt2t5X.js; archive only",
+    "bytes": 3165,
+    "sha256": "a804fa5e3af4bc904f15a62af790182f7c040b9bc1017845165c22a8940c3ba6",
+    "retained": true
+  },
+  {
+    "url": "https://xrp.openentry.io/assets/mpt_crypto-Blloi7rq.wasm",
+    "path": "assets/mpt_crypto-Blloi7rq.wasm",
+    "success": true,
+    "http_status": "200",
+    "usage": "assets/mpt_crypto.web-BbHa5CJR.js; archive only",
+    "bytes": 2110544,
+    "sha256": "68ddb99a0e70f99d88bbf82ba135e8a8f75817a630d774f1f5798e8c37ff6c86",
+    "retained": true
+  }
+]
